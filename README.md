@@ -1,4 +1,4 @@
-# Proyecto Final – Predicción de Churn en un Banco
+# Proyecto Final – Predicción de Churn en una entidad financiera
 Métodos de Analítica II 
 
 ## Cómo abrirlo en Visual Studio Code
