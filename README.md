@@ -10,8 +10,9 @@ Métodos de Analítica II
    ```
 4. Abra cualquier notebook y elija el kernel de Python donde instaló las librerías.
 
-### Entorno recomendado (Windows)
-TensorFlow 2.21 funciona con Python 3.10 a 3.13. Con el administrador de Python de python.org:
+### Entorno recomendado 
+
+Para correr el entorno se utilizo python 3.12 Con el administrador de Python de python.org:
 ```
 py install 3.12
 py -3.12 -m venv .venv
