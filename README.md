@@ -1,8 +1,8 @@
 # Proyecto Final – Predicción de Churn en un Banco
-Métodos de Analítica II · Maestría en Analítica para la Inteligencia de Negocios
+Métodos de Analítica II 
 
 ## Cómo abrirlo en Visual Studio Code
-1. Descomprima la carpeta y ábrala completa en VS Code (`Archivo > Abrir carpeta…`).
+1. Descargue el repositorio y ábralo completa en VS Code (`Archivo > Abrir carpeta…`).
 2. Instale las extensiones **Python** y **Jupyter** de Microsoft.
 3. Instale las librerías (una sola vez), en la terminal de VS Code:
    ```
@@ -21,9 +21,7 @@ pip install -r requirements.txt
 ```
 En VS Code elija el kernel `.venv` al abrir cada notebook.
 
-### Publicar en GitHub
-En VS Code: panel **Control de código fuente** → **Publish to GitHub** (público o privado).
-El archivo `.gitignore` evita que se suba la carpeta `.venv`.
+
 
 ## Orden de ejecución
 | # | Notebook | Qué hace | Tiempo aprox. |
